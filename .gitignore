@@ -1,0 +1,71 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+
+# Ignore Temp folder
+[Tt]emp/
+
+# Ignore the Build folder
+[Bb]uild/
+
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# Ignore Asset meta files
+[Mm]etadata/
+
+# Ignore crash reports
+[CrashReports]/
+
+# Ignore Audio crash files
+*.tuner
+
+# Ignore the build metadata file
+BuildReport/
+
+# Ignore cache directories
+/[Aa]sset[Ss]tore/
+
+# Ignore JetBrains Rider plugin caches
+.idea/
+.idea/**
+
+# Visual Studio/MonoDevelop project files
+.vscode/
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore other temporary files
+*.pidb.meta
+*.pdb.meta
+*.mdb
+*.eml
+*.collab
+
+# Ignore Unity-generated player builds
+*.apk
+*.aab
+*.unitypackage
+*.unityproj
+
+# Ignore gradle build files
+.gradle/
+build/
+
+# Ignore any crash or log files
+*.log
+*.stacktrace
+*.replay

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|d:\\projetos\\yugioh-ffa\\yugioh-ffa\\assets\\navigationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\navigationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavigationScript.cs",
+              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\NavigationScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NavigationScript.cs",
+              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\NavigationScript.cs",
+              "RelativeToolTip": "Assets\\NavigationScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:05:02.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
