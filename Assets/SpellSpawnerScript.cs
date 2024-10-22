@@ -19,7 +19,7 @@ public class SpellSpawnerScript : MonoBehaviour
             Vector3 position = spawnPosition + new Vector3(i * (spacing + spellXsize), 0, 0);
 
             // Instancia o cubo no local calculado
-            Instantiate(spellPrefab, position, Quaternion.identity);
+            Instantiate(spellPrefab, position, spellPrefab.transform.localRotation);
         }
     }
 }

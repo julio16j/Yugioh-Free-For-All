@@ -19,7 +19,7 @@ public class MonsterSpawnerScript : MonoBehaviour
             Vector3 position = spawnPosition + new Vector3(i * (spacing + monsterXsize), 0, 0);
 
             // Instancia o cubo no local calculado
-            Instantiate(monsterPrefab, position, Quaternion.identity);
+            Instantiate(monsterPrefab, position, monsterPrefab.transform.localRotation);
         }
     }
 }

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bb1927624e2043844a631e1283842f93
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - graveyardPrefab: {fileID: 6383402571984296471, guid: 75f5f3573632e354fb132342bcca3c55, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
