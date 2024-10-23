@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|c:\\users\\filip\\yu-gi-oh! ffa\\yugioh-free-for-all\\assets\\spawner\\fieldzonespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|solutionrelative:assets\\spawner\\fieldzonespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\assets\\spawner\\extradeckspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|solutionrelative:assets\\spawner\\extradeckspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|c:\\users\\filip\\yu-gi-oh! ffa\\yugioh-free-for-all\\assets\\spawner\\extrazonespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|solutionrelative:assets\\spawner\\extrazonespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\assets\\spawner\\monsterspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|solutionrelative:assets\\spawner\\monsterspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\assets\\spawner\\spellspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|solutionrelative:assets\\spawner\\spellspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FieldZoneSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\FieldZoneSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawner\\FieldZoneSpawner.cs",
+              "ToolTip": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\FieldZoneSpawner.cs",
+              "RelativeToolTip": "Assets\\Spawner\\FieldZoneSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:36:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtraDeckSpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\ExtraDeckSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawner\\ExtraDeckSpawnerScript.cs",
+              "ToolTip": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\ExtraDeckSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Spawner\\ExtraDeckSpawnerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:23:27.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtraZoneSpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\ExtraZoneSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawner\\ExtraZoneSpawnerScript.cs",
+              "ToolTip": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\ExtraZoneSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Spawner\\ExtraZoneSpawnerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:23:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpellSpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\SpellSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawner\\SpellSpawnerScript.cs",
+              "ToolTip": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\SpellSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Spawner\\SpellSpawnerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:18:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonsterSpawnerScript.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\MonsterSpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Spawner\\MonsterSpawnerScript.cs",
+              "ToolTip": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\Spawner\\MonsterSpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Spawner\\MonsterSpawnerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:11:16.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
