@@ -1,31 +1,30 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
-public class ModalOpenScript : MonoBehaviour
+
+public class PassFaseScript : MonoBehaviour
 {
-    public GameObject modalController;
+    public TurnState fase;
+    private GameManager gameManager;
 
     // Start is called before the first frame update
-    void Update()
+    void Start()
     {
-        // Verifica se o botão esquerdo do mouse foi clicado
-        if (Input.GetMouseButtonDown(0))
-        {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
+        // Encontre o GameManager na cena (certifique-se de que haja apenas um)
+        gameManager = FindObjectOfType<GameManager>();
+    }
 
-            // Verifica se o Raycast atingiu um objeto
-            if (Physics.Raycast(ray, out hit))
-            {
-                // Buscamos o script de Modal
-                ModalScript modal = modalController.GetComponent<ModalScript>();
-                if (modal != null)
-                {
-                    modal.Abrir(new ModalPassFase());
-                }
-            }
+    public void SetFase()
+    {
+        if (gameManager != null)
+        {
+            gameManager.PassFase(fase);
+        }
+        else
+        {
+            Debug.LogWarning("GameManager não encontrado!");
         }
     }
 }

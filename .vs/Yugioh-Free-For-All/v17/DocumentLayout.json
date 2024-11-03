@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\ModalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ModalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\FaseModalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modal\\FaseModalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\ModalOpenScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ModalOpenScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\PassFaseScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modal\\PassFaseScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\StatesEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StatesEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Modal1.cs",
-              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal1.cs",
-              "RelativeDocumentMoniker": "Assets\\Modal1.cs",
-              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal1.cs",
-              "RelativeToolTip": "Assets\\Modal1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PassFaseScript.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\PassFaseScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Modal\\PassFaseScript.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\PassFaseScript.cs",
+              "RelativeToolTip": "Assets\\Modal\\PassFaseScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T01:04:39.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Modal.cs",
-              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal.cs",
-              "RelativeDocumentMoniker": "Assets\\Modal.cs",
-              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal.cs",
-              "RelativeToolTip": "Assets\\Modal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T01:00:39.852Z",
+              "WhenOpened": "2024-11-03T21:48:09.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ModalScript.cs",
-              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\ModalScript.cs",
-              "RelativeDocumentMoniker": "Assets\\ModalScript.cs",
-              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\ModalScript.cs",
-              "RelativeToolTip": "Assets\\ModalScript.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Title": "FaseModalScript.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\FaseModalScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Modal\\FaseModalScript.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\FaseModalScript.cs",
+              "RelativeToolTip": "Assets\\Modal\\FaseModalScript.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T00:04:14.744Z",
+              "WhenOpened": "2024-11-02T00:31:50.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModalOpenScript.cs",
-              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\ModalOpenScript.cs",
-              "RelativeDocumentMoniker": "Assets\\ModalOpenScript.cs",
-              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\ModalOpenScript.cs",
-              "RelativeToolTip": "Assets\\ModalOpenScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StatesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\StatesEnum.cs",
+              "RelativeDocumentMoniker": "Assets\\StatesEnum.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\StatesEnum.cs",
+              "RelativeToolTip": "Assets\\StatesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:25:00.239Z",
+              "WhenOpened": "2024-10-30T02:27:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:41:35.814Z",
               "EditorCaption": ""
             }
           ]
