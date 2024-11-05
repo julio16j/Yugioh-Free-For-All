@@ -51,7 +51,7 @@ public class GameManager : MonoBehaviour
             case TurnState.MainOne: faseText.text =  "M1"; break;
             case TurnState.Battle: faseText.text =  "BA"; break;
             case TurnState.MainTwo: faseText.text =  "M2"; break;
-            case TurnState.End: faseText.text =  "End"; break;
+            case TurnState.End: faseText.text =  "S"; break;
             default: break;
         };
     }
