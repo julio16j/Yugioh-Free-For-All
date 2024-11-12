@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\",
+  "WorkspaceRootPath": "D:\\projetos\\yugioh-ffa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|d:\\projetos\\yugioh-ffa\\yugioh-ffa\\assets\\deckspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\deckspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|d:\\projetos\\yugioh-ffa\\yugioh-ffa\\assets\\extradeckspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\extradeckspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\assets\\bannedzonespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\bannedzonespawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\assets\\spellspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\spellspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\assets\\monsterspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\monsterspawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\assets\\navigationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F55242-C538-A75F-DC73-5B6B6AB52EF7}|Assembly-CSharp.csproj|solutionrelative:assets\\navigationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\assets\\extradeckspawnerscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\extradeckspawnerscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E09C2E63-9287-FD22-7208-8980FBC6EFB7}|Assembly-CSharp.csproj|d:\\projetos\\yugioh-ffa\\assets\\cardscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09C2E63-9287-FD22-7208-8980FBC6EFB7}|Assembly-CSharp.csproj|solutionrelative:assets\\cardscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,89 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeckSpawnerScript.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\DeckSpawnerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\DeckSpawnerScript.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\DeckSpawnerScript.cs",
-              "RelativeToolTip": "Assets\\DeckSpawnerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "CardScript.cs",
+              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Assets\\CardScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CardScript.cs",
+              "ToolTip": "D:\\projetos\\yugioh-ffa\\Assets\\CardScript.cs",
+              "RelativeToolTip": "Assets\\CardScript.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:08:30.535Z",
+              "WhenOpened": "2024-11-01T16:56:24.833Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExtraDeckSpawnerScript1.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\ExtraDeckSpawnerScript1.cs",
-              "RelativeDocumentMoniker": "Assets\\ExtraDeckSpawnerScript1.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\ExtraDeckSpawnerScript1.cs",
-              "RelativeToolTip": "Assets\\ExtraDeckSpawnerScript1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:53:05.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExtraDeckSpawnerScript.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\ExtraDeckSpawnerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\ExtraDeckSpawnerScript.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\ExtraDeckSpawnerScript.cs",
-              "RelativeToolTip": "Assets\\ExtraDeckSpawnerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:46:29.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BannedZoneSpawnerScript.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\BannedZoneSpawnerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\BannedZoneSpawnerScript.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\BannedZoneSpawnerScript.cs",
-              "RelativeToolTip": "Assets\\BannedZoneSpawnerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:37:21.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SpellSpawnerScript.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\SpellSpawnerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\SpellSpawnerScript.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\SpellSpawnerScript.cs",
-              "RelativeToolTip": "Assets\\SpellSpawnerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:16:03.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MonsterSpawnerScript.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\MonsterSpawnerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\MonsterSpawnerScript.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\MonsterSpawnerScript.cs",
-              "RelativeToolTip": "Assets\\MonsterSpawnerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:10:09.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NavigationScript.cs",
-              "DocumentMoniker": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\NavigationScript.cs",
-              "RelativeDocumentMoniker": "Assets\\NavigationScript.cs",
-              "ToolTip": "D:\\projetos\\yugioh-ffa\\Yugioh-FFA\\Assets\\NavigationScript.cs",
-              "RelativeToolTip": "Assets\\NavigationScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T04:05:02.842Z"
             }
           ]
         }
