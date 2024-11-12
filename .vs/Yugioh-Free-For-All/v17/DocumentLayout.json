@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\",
+  "WorkspaceRootPath": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|c:\\users\\filip\\yu-gi-oh! ffa\\yugioh-free-for-all\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\lifepointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{517FEDDD-08E9-9637-A59E-956FEE591346}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\lifepointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\PassFaseScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PassFaseScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\FaseModalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Modal\\FaseModalScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\StatesEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StatesEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LifePointsManager.cs",
-              "DocumentMoniker": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\LifePointsManager.cs",
-              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\LifePointsManager.cs",
-              "ToolTip": "C:\\Users\\filip\\Yu-Gi-Oh! FFA\\Yugioh-Free-For-All\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\LifePointsManager.cs",
-              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\LifePointsManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "PassFaseScript.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\PassFaseScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PassFaseScript.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\PassFaseScript.cs",
+              "RelativeToolTip": "Assets\\PassFaseScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T18:27:44.829Z",
+              "WhenOpened": "2024-11-03T23:26:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaseModalScript.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\FaseModalScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Modal\\FaseModalScript.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\Modal\\FaseModalScript.cs",
+              "RelativeToolTip": "Assets\\Modal\\FaseModalScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:25:34.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\StatesEnum.cs",
+              "RelativeDocumentMoniker": "Assets\\StatesEnum.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\StatesEnum.cs",
+              "RelativeToolTip": "Assets\\StatesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:27:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Cayo\\Desktop\\Projetos\\Yugioh-Free-For-All\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:41:35.814Z",
               "EditorCaption": ""
             }
           ]
